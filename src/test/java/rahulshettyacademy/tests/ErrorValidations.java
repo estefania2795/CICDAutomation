@@ -18,7 +18,7 @@ public class ErrorValidations extends BaseTest{
 	Assert.assertEquals("Incorrect email or password.",landingPage.getErrorMessage());
 	}
   //jajaja
-	
+	//new comments for demo purposes
 	int b=0;
 	@Test
 
